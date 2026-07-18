@@ -1,5 +1,3 @@
-package java.day2;
-
 public class Main {
     public static void main(String[] args) {
         final int a = 15 + 56;
